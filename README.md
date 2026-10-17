@@ -59,7 +59,12 @@ Su función es proporcionar estabilidad, facilitar el desplazamiento controlado 
 ## PREGUNTAS A DISCUSIÓN
 
 • Pregunta 1: ¿Qué otras variables (y por qué) además de las aquí mencionadas son críticas en el monitoreo neonatal?
+
+
 • Pregunta 2: ¿Qué haría falta para convertir el sistema desarrollado en una incubadora neonatal real?
+
+
+
 • Pregunta 3: ¿Qué semejanzas hay entre una incubadora neonatal y una servo-cuna?
 
 
