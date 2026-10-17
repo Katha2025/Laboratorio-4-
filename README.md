@@ -48,6 +48,7 @@ Su función es proporcionar estabilidad, facilitar el desplazamiento controlado 
 
 # Parte B
 
+**Costo del sistema desarrollado**
 
 # Procedimiento
 
