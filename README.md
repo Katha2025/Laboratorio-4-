@@ -44,6 +44,28 @@ El estado del filtro influye en el funcionamiento de la incubadora. De acuerdo c
 - 13. Base, estructura de soporte y ruedas
 Constituyen la estructura mecánica que sostiene la cámara, el sistema de control y los accesorios del equipo. Según el modelo, la base puede incorporar ruedas con freno, mecanismos de ajuste de altura, soportes para cilindros y espacios para almacenar elementos de atención.
 Su función es proporcionar estabilidad, facilitar el desplazamiento controlado dentro de las instalaciones hospitalarias y permitir una ubicación adecuada para el cuidado del recién nacido [2].
+
+
+# Parte B
+
+
+# Procedimiento
+
+# Análisis de los Resultados
+
+
+# Conclusión
+
+## PREGUNTAS A DISCUSIÓN
+
+
+
+
+
+## Referencias
+
+[1] World Health Organization, “Incubator, newborn,” WHO Medical Devices Information System (MEDEVIS). [En línea]. Disponible en: https://medevis.who-healthtechnologies.org/devices/COM_106. [Accedido: 17-oct-2026].
+[2] Dräger, Instructions for Use: Isolette 8000 plus, Software 5.n. Lübeck, Alemania: Dräger, manual técnico del fabricante. [En línea]. Disponible en: Manual oficial de la incubadora Dräger Isolette 8000 plus (PDF). [Accedido: 17-oct-2026].
 - 14. Sistema de alimentación eléctrica
 Está formado por la conexión de alimentación, los circuitos eléctricos de distribución y los elementos de protección correspondientes. Proporciona la energía necesaria para el calentador, el controlador, los sensores, la pantalla y las alarmas.
 Debido a que el funcionamiento de los sistemas de control depende de la alimentación eléctrica, las conexiones, la puesta a tierra y el mantenimiento deben cumplir las indicaciones de seguridad del fabricante. [2]
