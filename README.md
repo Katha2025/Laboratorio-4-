@@ -76,12 +76,18 @@ El prototipo de incubadora neonatal a escala desarrollado presenta un costo tota
 
 • **Pregunta 1: ¿Qué otras variables (y por qué) además de las aquí mencionadas son críticas en el monitoreo neonatal?**
 
+Además de la temperatura y el peso controlados en esta práctica, existen otras variables físicas y fisiológicas de carácter crítico para asegurar el bienestar y la supervivencia del recién nacido. Entre las variables ambientales destaca la humedad relativa del aire, la cual debe mantenerse habitualmente entre el 60% y el 80% para evitar la pérdida insensible de agua transdérmica y prevenir la deshidratación o el enfriamiento por evaporación en prematuros de piel inmadura. Asimismo, la concentración de oxígeno ($O_2$) en la cabina es fundamental; debe ser monitoreada y regulada con precisión para evitar cuadros de hipoxia o, en el extremo opuesto, la toxicidad por hiperoxia que puede desencadenar retinopatía de la prematuridad o daño pulmonar. A nivel de constantes vitales del paciente, resulta imprescindible la monitorización continua de la frecuencia cardíaca, la frecuencia respiratoria, la saturación de oxígeno ($SpO_2$) mediante pulsioximetría y la presión arterial no invasiva, ya que permiten detectar tempranamente episodios de apnea, bradicardia, distrés respiratorio o inestabilidad hemodinámica. 
+
 
 • **Pregunta 2: ¿Qué haría falta para convertir el sistema desarrollado en una incubadora neonatal real?**
+
+Para elevar el prototipo a escala desarrollado hacia un sistema de incubadora neonatal de grado médico real, se requeriría una reingeniería integral enfocada en la seguridad, la precisión clínica y la normatividad biomédica. En primer lugar, se debería sustituir la estructura y elementos caseros (como el bombillo y la caja de plástico) por un habitáculo cerrado de acrílico óptico de grado médico de doble pared, diseñado para garantizar un aislamiento térmico superior, atenuación del ruido acústico y compatibilidad con procesos de desinfección y esterilización intensivos. En la etapa de control térmico, se necesitaría reemplazar el sistema de conmutación simple por un algoritmo de servocontrol PID multivariable de lazo cerrado que integre una resistencia calefactora blindada electromédica, además de incorporar módulos de humedecimiento activo con reserva de agua esterilizada y monitoreo continuo de oxígeno. Finalmente, el dispositivo requeriría la adición de sistemas redundantes de seguridad (termostatos mecánicos independientes contra sobrecalentamiento, alarmas audibles y visibles priorizadas), baterías de respaldo para emergencias de fallo eléctrico, calibración de sensores bajo patrones normados y el cumplimiento estricto de las normas internacionales de seguridad electromédica (como la IEC 60601-2-19).
 
 
 
 • **Pregunta 3: ¿Qué semejanzas hay entre una incubadora neonatal y una servo-cuna?**
+
+Tanto la incubadora neonatal como la servo-cuna (o cuna radiante) son dispositivos médicos diseñados principalmente para mantener la termorregulación y la estabilidad fisiológica del neonato en un entorno hospitalario. Ambas comparten el principio de servocontrol de temperatura, utilizando sensores colocados directamente sobre la piel del paciente (o sensores ambientales) que realimentan una unidad central para regular automáticamente la potencia de la fuente de calor. De igual manera, ambos sistemas integran módulos de monitorización de constantes vitales, estructuras mecánicas ajustables (como inclinación Trendelenburg) y plataformas que facilitan la incorporación de básculas para el control del peso, sirviendo como soporte vital en unidades de cuidados intensivos o intermedios neonatales.
 
 
 
