@@ -55,24 +55,24 @@ Su función es proporcionar estabilidad, facilitar el desplazamiento controlado 
 
 Cálculo del capacitor:
 
-$$C = \frac{I_{load}}{2fV_{r(pp)}}$$[cite: 1]
+$$C = \frac{I_{load}}{2fV_{r(pp)}}$$
 
-**Valores:**[cite: 1]
-* $I_{load} = 0.13\text{ A}$[cite: 1]
-* $f = 120\text{ Hz}$[cite: 1]
-* $V_{r(pp)} = 0.10\text{ V}$[cite: 1]
+**Valores:**
+* $I_{load} = 0.13\text{ A}$
+* $f = 120\text{ Hz}$
+* $V_{r(pp)} = 0.10\text{ V}$
 
-Sustituyendo:[cite: 1]
+Sustituyendo:
 
-$$C = \frac{0.13}{2(120)(0.10)}$$[cite: 1]
+$$C = \frac{0.13}{2(120)(0.10)}$$
 
-$$C = \frac{0.13}{24}$$[cite: 1]
+$$C = \frac{0.13}{24}$$
 
-$$C = 0.0054167\text{ F}$$[cite: 1]
+$$C = 0.0054167\text{ F}$$
 
-Convertimos a microfaradios:[cite: 1]
+Convertimos a microfaradios:
 
-$$\boxed{C = 5416.67\text{ }\mu\text{F}}$$[cite: 1]
+**$$\boxed{C = 5416.67\text{ }\mu\text{F}}$$**
 
 # Parte B
 
