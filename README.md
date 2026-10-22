@@ -91,6 +91,10 @@ El prototipo de incubadora neonatal a escala desarrollado presenta un costo tota
 
 # Procedimiento
 
+
+
+# Resultados de pesaje
+
 # Análisis de los Resultados
 
 
