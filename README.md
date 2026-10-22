@@ -127,3 +127,5 @@ Tanto la incubadora neonatal como la servo-cuna (o cuna radiante) son dispositiv
 
 
 [4] DOTmed Inc., "Dräger Isolette / Caleo infant incubator listings," DOTmed Equipment Marketplace, 2024. [En línea]. Disponible en: https://es.dotmed.com/browse/equipment/neonatal/neonatal/infant-incubator/draeger
+
+[5] E. J. Argüello-Prada, "Clase 08: Conversión AC/DC," presentación de diapositivas de la asignatura Instrumentación Biomédica y Biosensores, Ing. Biomédica, 2026.
