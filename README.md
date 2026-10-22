@@ -50,6 +50,10 @@ Su función es proporcionar estabilidad, facilitar el desplazamiento controlado 
 # Circuito eléctrico control de peso
 
 
+
+# Cálculos
+
+
 # Parte B
 
 **Costo del sistema desarrollado**
