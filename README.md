@@ -94,6 +94,12 @@ Tanto la incubadora neonatal como la servo-cuna (o cuna radiante) son dispositiv
 ## Referencias
 
 [1] World Health Organization, “Incubator, newborn,” WHO Medical Devices Information System (MEDEVIS). [En línea]. Disponible en: https://medevis.who-healthtechnologies.org/devices/COM_106. [Accedido: 17-oct-2026].
+
+
 [2] Dräger, Instructions for Use: Isolette 8000 plus, Software 5.n. Lübeck, Alemania: Dräger, manual técnico del fabricante. [En línea]. Disponible en: Manual oficial de la incubadora Dräger Isolette 8000 plus (PDF). [Accedido: 17-oct-2026].
+
+
 [3] IMEDS Colombia, "Incubadora neonatal B3 / BT-500," Catálogo de tienda en línea, 2024. [En línea]. Disponible en: https://www.imedscolombia.com/tienda-on-line-1/incubadoras/
+
+
 [4] DOTmed Inc., "Dräger Isolette / Caleo infant incubator listings," DOTmed Equipment Marketplace, 2024. [En línea]. Disponible en: https://es.dotmed.com/browse/equipment/neonatal/neonatal/infant-incubator/draeger
