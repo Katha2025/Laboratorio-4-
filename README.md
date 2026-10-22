@@ -45,6 +45,10 @@ El estado del filtro influye en el funcionamiento de la incubadora. De acuerdo c
 Constituyen la estructura mecánica que sostiene la cámara, el sistema de control y los accesorios del equipo. Según el modelo, la base puede incorporar ruedas con freno, mecanismos de ajuste de altura, soportes para cilindros y espacios para almacenar elementos de atención.
 Su función es proporcionar estabilidad, facilitar el desplazamiento controlado dentro de las instalaciones hospitalarias y permitir una ubicación adecuada para el cuidado del recién nacido [2].
 
+# Circuito eléctrico control de temperatura
+
+# Circuito eléctrico control de peso
+
 
 # Parte B
 
