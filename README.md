@@ -1,4 +1,13 @@
 # Diseño y construcción de una incubadora neonatal a escala Laboratorio-4-
+
+
+**Integrantes**
+- Luciana Carbone Calderón
+  
+-  Marya Kathalina Prieto Martinez
+
+- Paula Andrea Delgado Pecha
+
 # Parte A
 # 1) Revisión de la literatura
 La incubadora neonatal es un dispositivo médico utilizado para proporcionar un ambiente térmico controlado a recién nacidos, especialmente prematuros y bebés con bajo peso al nacer que requieren apoyo para mantener su temperatura corporal. Su estructura cerrada permite reducir la exposición a las condiciones ambientales y, según el modelo, controlar variables como la temperatura del aire, la humedad y la concentración de oxígeno. Estos equipos incorporan sistemas de regulación, sensores y alarmas para facilitar el cuidado del recién nacido [1], [2].
