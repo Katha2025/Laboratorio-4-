@@ -61,7 +61,9 @@ Su función es proporcionar estabilidad, facilitar el desplazamiento controlado 
 
 
 3.  Circuito de la termocupla
-<img width="1774" height="887" alt="Sin título" src="https://github.com/user-attachments/assets/215cfe21-b2a8-4a2b-bf70-15653c69d3c2" />
+
+<img width="400" alt="Sin título" src="https://github.com/user-attachments/assets/215cfe21-b2a8-4a2b-bf70-15653c69d3c2" />
+
 
 
 
