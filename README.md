@@ -225,7 +225,9 @@ Adicionalmente, se debe verificar la alimentación eléctrica e incorporar prote
 
 # Conclusión
 
+La construcción de un prototipo de una incubadora neonatal a escala permitió integrar conocimientos de instrumentación biomédica, electrónica y programación mediante sistemas de calentamiento y estimación del peso. Se registraron temperaturas entre 35 y 38 °C con un control automático, pero la inestabilidad del sensor impidió validar el control térmico dentro del intervalo objetivo de 36 a 37,5 °C. En el pesaje, la prueba con una masa aproximada de 1,8 kg presentó un error porcentual absoluto del 5,55%, resultado que no permite establecer la exactitud global del sistema pero si una estimación cercana.
 
+El prototipo constituyó de una herramienta académica de bajo costo para comprender el funcionamiento básico de estos sistemas, sin representar una alternativa equivalente a una incubadora clínica. Como siguiente paso, se requiere mejorar la lectura de temperatura, implementar un control basado en esa medición, ajustar la calibración del pesaje y repetir las pruebas. Asimismo, deben incorporarse protecciones eléctricas y frente al sobrecalentamiento para avanzar hacia un funcionamiento experimental más confiable.
 
 ## PREGUNTAS A DISCUSIÓN
 
