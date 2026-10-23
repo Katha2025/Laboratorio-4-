@@ -48,7 +48,9 @@ Su función es proporcionar estabilidad, facilitar el desplazamiento controlado 
 # Circuito eléctrico control de temperatura
 
 1. Circuito del transformador AC-DC
-<img width="1774" height="887" alt="Esquema de fuente regulada +12 V" src="https://github.com/user-attachments/assets/4749916f-f322-40e2-881f-adc31680d093" />
+
+<img width="400" alt="Esquema de fuente regulada +12 V" src="https://github.com/user-attachments/assets/4749916f-f322-40e2-881f-adc31680d093" />
+
 
    
 2. Circuito del ventilador de 12v
