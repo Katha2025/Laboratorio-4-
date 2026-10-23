@@ -227,6 +227,8 @@ Adicionalmente, se debe verificar la alimentación eléctrica e incorporar prote
 
 # Conclusión
 
+
+
 ## PREGUNTAS A DISCUSIÓN
 
 • **Pregunta 1: ¿Qué otras variables (y por qué) además de las aquí mencionadas son críticas en el monitoreo neonatal?**
