@@ -80,7 +80,7 @@ Convertimos a microfaradios:
 
 
 
-<img width="1118" height="562" alt="image" src="https://github.com/user-attachments/assets/0b8b0449-d2cc-47b9-892a-a64fcd4debb4" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/0b8b0449-d2cc-47b9-892a-a64fcd4debb4" />
 
 
 
