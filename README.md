@@ -100,7 +100,7 @@ El prototipo de incubadora neonatal a escala desarrollado presenta un costo tota
 
 4.  Al construir el hardware, se verificó primero el correcto funcionamiento del transformador con el multímetro. Luego, se ensamblaron las etapas de potencia con transistores (como el TIP31 y el 2N3904) para accionar el ventilador y el bombillo desde el pin 3 de la ESP32, comprobando su encendido y apagado.
 
-5.  Posteriormente, se adaptó la galga extensiométrica sobre una plataforma rígida dentro de una caja de plástico (la cual sirvió como armatoste y cabina de la incubadora, garantizando visibilidad y control térmico por convección). Para caracterizar la galga —dado su comportamiento no lineal frente al ADC—, se realizaron pruebas empleando pesas patrón de valores conocidos 500 g, 2 kg y 3 kg para correlacionar los voltajes digitales con el peso real.
+5.  Posteriormente, se adaptó la galga extensiométrica sobre una plataforma rígida dentro de una caja de plástico (la cual sirvió como armatoste y cabina de la incubadora, garantizando visibilidad y control térmico por convección), además  se adapto un mecanismo de apertura y cierre en donde en nuestro caso fue la tapa de la caja. Para caracterizar la galga —dado su comportamiento no lineal frente al ADC—, se realizaron pruebas empleando pesas patrón de valores conocidos 500 g, 2 kg y 3 kg para correlacionar los voltajes digitales con el peso real.
   
 6. Después, se elaboró el código en el entorno de Arduino para integrar la lectura del peso, procesar la información y programar una pantalla LCD encargada de mostrar los resultados en tiempo real.
 
