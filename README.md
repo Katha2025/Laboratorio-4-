@@ -47,7 +47,46 @@ Su función es proporcionar estabilidad, facilitar el desplazamiento controlado 
 
 # Circuito eléctrico control de temperatura
 
+1. Circuito del transformador AC-DC
+<img width="1774" height="887" alt="Esquema de fuente regulada +12 V" src="https://github.com/user-attachments/assets/4749916f-f322-40e2-881f-adc31680d093" />
+
+   
+2. Circuito del ventilador de 12v
+
+<img width="1774" height="887" alt="Esquema ESP32 para ventilador de 12 V" src="https://github.com/user-attachments/assets/d91b4f86-8afe-48d5-b83f-0794dabc8546" />
+
+
+3. Circuito de la termocupla
+<img width="1774" height="887" alt="Esquema técnico de termocupla y ESP32" src="https://github.com/user-attachments/assets/0e29bf24-d130-4687-8a42-756a78ae09bd" />
+
+
+
 # Circuito eléctrico control de peso
+
+1. Circuito para el sensor resistivo
+<img width="1774" height="887" alt="Esquemático ESP32 con sensor FSR402" src="https://github.com/user-attachments/assets/8bf46e78-ba81-439a-88c5-38826b89661d" />
+
+   
+2. Conexiones de la pantalla LCD
+
+| **Pin LCD** | **Nombre** | **Función** | **Conectado a** | **Mediante** |
+|:---:|:---:|:---:|:---:|:---:|
+| 1 | VSS | Tierra | GND de ESP32 | Conexión directa |
+| 2 | VDD | Alimentación | 3.3 V de ESP32 | Conexión directa |
+| 3 | VO | Contraste | Pin central del potenciómetro | Potenciómetro de 10 kΩ |
+| 4 | RS | Selección de registro | GPIO13 de ESP32 | Conexión directa |
+| 5 | RW | Lectura/escritura | GND | Conexión directa |
+| 6 | E | Habilitación | GPIO14 de ESP32 | Conexión directa |
+| 7 | D0 | Datos | Sin conectar | — |
+| 8 | D1 | Datos | Sin conectar | — |
+| 9 | D2 | Datos | Sin conectar | — |
+| 10 | D3 | Datos | Sin conectar | — |
+| 11 | D4 | Datos | GPIO27 de ESP32 | Conexión directa |
+| 12 | D5 | Datos | GPIO26 de ESP32 | Conexión directa |
+| 13 | D6 | Datos | GPIO32 de ESP32 | Conexión directa |
+| 14 | D7 | Datos | GPIO12 de ESP32 | Conexión directa |
+| 15 | A (LED+) | Positivo de retroiluminación | 3.3 V de ESP32 | Resistencia de 220 Ω en serie |
+| 16 | K (LED−) | Negativo de retroiluminación | GND | Conexión directa |
 
 
 
