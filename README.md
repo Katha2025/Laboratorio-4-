@@ -152,6 +152,18 @@ El prototipo de incubadora neonatal a escala desarrollado presenta un costo tota
 
 3.  Continuando con el diseño, se estructuró el circuito de control de temperatura y el acondicionamiento para la galga extensiométrica, conectándolos a una tarjeta de desarrollo ESP32 para leer las señales mediante su conversor análogo-digital (ADC). Adicionalmente, se programó un panel de LEDs indicadores para evidenciar si la temperatura se encontraba dentro o fuera del rango seguro establecido ($36^\circ\text{C}$ a $37.5^\circ\text{C}$).
 
+
+
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c19a8aca-bbec-4ef4-828d-ff681a7a26e3" />
+
+
+
+
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/0eb220a1-6656-4e30-970e-f7769f96f306" />
+
+
+
 4.  Al construir el hardware, se verificó primero el correcto funcionamiento del transformador con el multímetro. Luego, se ensamblaron las etapas de potencia con transistores (como el TIP31 y el 2N3904) para accionar el ventilador y el bombillo desde el pin 3 de la ESP32, comprobando su encendido y apagado.
 
 5.  Posteriormente, se adaptó la galga extensiométrica sobre una plataforma rígida dentro de una caja de plástico (la cual sirvió como armatoste y cabina de la incubadora, garantizando visibilidad y control térmico por convección), además  se adapto un mecanismo de apertura y cierre en donde en nuestro caso fue la tapa de la caja. Para caracterizar la galga —dado su comportamiento no lineal frente al ADC—, se realizaron pruebas empleando pesas patrón de valores conocidos 500 g, 2 kg y 3 kg para correlacionar los voltajes digitales con el peso real.
