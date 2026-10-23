@@ -142,6 +142,8 @@ Convertimos a microfaradios:
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/0b8b0449-d2cc-47b9-892a-a64fcd4debb4" />
 
 
+**Imagen 5.** *Costo del sistema desarrollado.*
+
 
 **Comparación con incubadoras comercializadas**
 
@@ -158,7 +160,7 @@ El prototipo de incubadora neonatal a escala desarrollado presenta un costo tota
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/db3e28cb-2737-48e2-adf2-721f3c6bf0e4" />
 
-**Imagen 5.** *Circuito para el sensor resistivo.*
+**Imagen 6.** *Sistema de calefacción.*
 
 
 3.  Continuando con el diseño, se estructuró el circuito de control de temperatura y el acondicionamiento para la galga extensiométrica, conectándolos a una tarjeta de desarrollo ESP32 para leer las señales mediante su conversor análogo-digital (ADC). Adicionalmente, se programó un panel de LEDs indicadores para evidenciar si la temperatura se encontraba dentro o fuera del rango seguro establecido ($36^\circ\text{C}$ a $37.5^\circ\text{C}$).
@@ -169,13 +171,13 @@ El prototipo de incubadora neonatal a escala desarrollado presenta un costo tota
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/c19a8aca-bbec-4ef4-828d-ff681a7a26e3" />
 
 
-**Imagen 6.** *Circuito para el sensor resistivo.*
+**Imagen 7.** *Sistema de peso y calefacción.*
 
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/0eb220a1-6656-4e30-970e-f7769f96f306" />
 
 
-**Imagen 7.** *Circuito para el sensor resistivo.*
+**Imagen 8.** *Circuito de LEDS (Control de temperatura).*
 
 
 
@@ -186,14 +188,14 @@ El prototipo de incubadora neonatal a escala desarrollado presenta un costo tota
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/9ac66684-8e4f-40ef-8753-6e8369d8923e" />
 
 
-**Imagen 8.** *Circuito para el sensor resistivo.*
+**Imagen 9.** *Prueba de pesaje con pesa de 3 kg.*
 
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/d7235cb0-e70d-4d18-8c04-aedd3d9cb888" />
 
 
 
-**Imagen 9.** *Circuito para el sensor resistivo.*
+**Imagen 10.** *Lectura del pesaje.*
 
 
   
