@@ -55,10 +55,12 @@ Su función es proporcionar estabilidad, facilitar el desplazamiento controlado 
    
 2. Circuito del ventilador de 12v
 
-<img width="1774" height="887" alt="Esquema ESP32 para ventilador de 12 V" src="https://github.com/user-attachments/assets/d91b4f86-8afe-48d5-b83f-0794dabc8546" />
+
+<img width="400" alt="Esquema ESP32 para ventilador de 12 V" src="https://github.com/user-attachments/assets/d91b4f86-8afe-48d5-b83f-0794dabc8546" />
 
 
-3. Circuito de la termocupla
+
+3.  Circuito de la termocupla
 <img width="1774" height="887" alt="Sin título" src="https://github.com/user-attachments/assets/215cfe21-b2a8-4a2b-bf70-15653c69d3c2" />
 
 
