@@ -92,6 +92,24 @@ El prototipo de incubadora neonatal a escala desarrollado presenta un costo tota
 # Procedimiento
 
 
+1. Para iniciar, se hizo una revisión de literatura y de los circuitos provistos en el material de clase para comprender el funcionamiento de una incubadora neonatal y determinar las variables físicas críticas que debían controlarse, destacando principalmente la temperatura y el peso del neonato.
+
+2. A partir de esta información, se seleccionaron los elementos y circuitos adecuados para el propósito de esta práctica. Para el sistema de calefacción y convección, se optó por emplear un bombillo y un ventilador, mientras que para el sistema de pesaje se utilizó una galga extensiométrica, descartando un sensor alternativo debido a su inestabilidad. Asimismo, se diseñó el circuito de conversión AC/DC (empleando transformador, puente rectificador y condensadores) para alimentar la circuitería a partir de la red eléctrica.
+   
+3.  Continuando con el diseño, se estructuró el circuito de control de temperatura y el acondicionamiento para la galga extensiométrica, conectándolos a una tarjeta de desarrollo ESP32 para leer las señales mediante su conversor análogo-digital (ADC). Adicionalmente, se programó un panel de LEDs indicadores para evidenciar si la temperatura se encontraba dentro o fuera del rango seguro establecido ($36^\circ\text{C}$ a $37.5^\circ\text{C}$).
+
+4.  Al construir el hardware, se verificó primero el correcto funcionamiento del transformador con el multímetro (entregando $12\text{ V\_{AC}}$) y la conexión directa del bombillo a $120\text{ V\_{AC}}$. Luego, se ensamblaron las etapas de potencia con transistores (como el TIP31 y el 2N3904) para accionar el ventilador y el bombillo desde el pin 3 de la ESP32, comprobando su encendido y apagado.
+
+5.  Posteriormente, se adaptó la galga extensiométrica sobre una plataforma rígida dentro de una caja de plástico (la cual sirvió como armatoste y cabina de la incubadora, garantizando visibilidad y control térmico por convección). Para caracterizar la galga —dado su comportamiento no lineal frente al ADC—, se realizaron pruebas empleando pesas patrón de valores conocidos ($500\text{ g}$, $2\text{ kg}$ y $3\text{ kg}$) para correlacionar los voltajes digitales con el peso real.
+  
+6. Después, se elaboró el código en el entorno de Arduino para integrar la lectura del peso, procesar la información y programar una pantalla LCD encargada de mostrar los resultados en tiempo real.
+
+
+7. Una vez ensamblado y validado el prototipo dentro de la caja de plástico, se evaluó el comportamiento térmico del sistema por convección y la precisión del pesaje con patrones conocidos, asegurando el cumplimiento de las especificaciones de diseño a escala.
+
+8. Para finalizar, se analizaron los resultados obtenidos frente a los requerimientos de la guía y se comparó el prototipo con soluciones comerciales. Con toda la información documentada, se creó un repositorio en GitHub para la entrega final de la práctica.
+
+
 
 # Resultados de pesaje
 
