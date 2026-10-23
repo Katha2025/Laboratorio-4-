@@ -183,9 +183,6 @@ El prototipo de incubadora neonatal a escala desarrollado presenta un costo tota
 8. Para finalizar, se analizaron los resultados obtenidos frente a los requerimientos de la guía y se comparó el prototipo con soluciones comerciales. Con toda la información documentada, se creó un repositorio en GitHub para la entrega final de la práctica.
 
 
-
-# Resultados de pesaje
-
 # Análisis de los Resultados
 
 
