@@ -71,7 +71,10 @@ Su función es proporcionar estabilidad, facilitar el desplazamiento controlado 
 # Circuito eléctrico control de peso
 
 1. Circuito para el sensor resistivo
-<img width="1774" height="887" alt="Esquemático ESP32 con sensor FSR402" src="https://github.com/user-attachments/assets/8bf46e78-ba81-439a-88c5-38826b89661d" />
+   
+
+<img width="400" alt="Esquemático ESP32 con sensor FSR402" src="https://github.com/user-attachments/assets/8bf46e78-ba81-439a-88c5-38826b89661d" />
+
 
    
 2. Conexiones de la pantalla LCD
