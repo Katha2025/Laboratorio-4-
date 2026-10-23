@@ -52,19 +52,23 @@ Su función es proporcionar estabilidad, facilitar el desplazamiento controlado 
 <img width="400" alt="Esquema de fuente regulada +12 V" src="https://github.com/user-attachments/assets/4749916f-f322-40e2-881f-adc31680d093" />
 
 
+**Imagen 1.** *Circuito del transformador AC-DC.*
+
+
    
 2. Circuito del ventilador de 12v
 
 
 <img width="400" alt="Esquema ESP32 para ventilador de 12 V" src="https://github.com/user-attachments/assets/d91b4f86-8afe-48d5-b83f-0794dabc8546" />
 
+**Imagen 2.** *Circuito del ventilador de 12v.*
 
 
 3.  Circuito de la termocupla
 
 <img width="400" alt="Sin título" src="https://github.com/user-attachments/assets/215cfe21-b2a8-4a2b-bf70-15653c69d3c2" />
 
-
+**Imagen 3.** *Circuito de la termocupla.*
 
 
 
@@ -76,8 +80,14 @@ Su función es proporcionar estabilidad, facilitar el desplazamiento controlado 
 <img width="400" alt="Esquemático ESP32 con sensor FSR402" src="https://github.com/user-attachments/assets/8bf46e78-ba81-439a-88c5-38826b89661d" />
 
 
+**Imagen 4.** *Circuito para el sensor resistivo.*
    
 2. Conexiones de la pantalla LCD
+
+
+
+**Tabla 1.** *Conexiones de la pantalla LCD.*
+
 
 | **Pin LCD** | **Nombre** | **Función** | **Conectado a** | **Mediante** |
 |:---:|:---:|:---:|:---:|:---:|
@@ -148,6 +158,7 @@ El prototipo de incubadora neonatal a escala desarrollado presenta un costo tota
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/db3e28cb-2737-48e2-adf2-721f3c6bf0e4" />
 
+**Imagen 5.** *Circuito para el sensor resistivo.*
 
 
 3.  Continuando con el diseño, se estructuró el circuito de control de temperatura y el acondicionamiento para la galga extensiométrica, conectándolos a una tarjeta de desarrollo ESP32 para leer las señales mediante su conversor análogo-digital (ADC). Adicionalmente, se programó un panel de LEDs indicadores para evidenciar si la temperatura se encontraba dentro o fuera del rango seguro establecido ($36^\circ\text{C}$ a $37.5^\circ\text{C}$).
@@ -158,9 +169,13 @@ El prototipo de incubadora neonatal a escala desarrollado presenta un costo tota
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/c19a8aca-bbec-4ef4-828d-ff681a7a26e3" />
 
 
+**Imagen 6.** *Circuito para el sensor resistivo.*
 
 
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/0eb220a1-6656-4e30-970e-f7769f96f306" />
+
+
+**Imagen 7.** *Circuito para el sensor resistivo.*
 
 
 
@@ -171,7 +186,14 @@ El prototipo de incubadora neonatal a escala desarrollado presenta un costo tota
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/9ac66684-8e4f-40ef-8753-6e8369d8923e" />
 
 
+**Imagen 8.** *Circuito para el sensor resistivo.*
+
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/d7235cb0-e70d-4d18-8c04-aedd3d9cb888" />
+
+
+
+**Imagen 9.** *Circuito para el sensor resistivo.*
 
 
   
